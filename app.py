@@ -45,6 +45,21 @@ genre_playlists = {
         "edm": {
             "english": "https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n",
             "hindi": "https://open.spotify.com/playlist/37i9dQZF1DWUvHZA1zLcjW"
+        },
+        "lo-fi": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DXdxcBWuJkbcy"
+        },
+        "soul": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX6z20IXmBjWI"
+        },
+        "reggae": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DXbSbnqxMTGx9"
+        },
+        "latin": {
+            "spanish": "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva"
+        },
+        "k-pop": {
+            "korean": "https://open.spotify.com/playlist/37i9dQZF1DWUZ5bk6qqDSy"
         }
     },
     "sad": {
@@ -56,6 +71,18 @@ genre_playlists = {
         "blues": {
             "english": "https://open.spotify.com/playlist/37i9dQZF1DX9qNs32fujYe",
             "hindi": "https://open.spotify.com/playlist/37i9dQZF1DX4G1m08hAc1Z"
+        },
+        "acoustic": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX2sUQwD7tbmL"
+        },
+        "indie": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX7gIoKXt0gmx"
+        },
+        "classical": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DWWEJlAGA9gs0"
+        },
+        "lo-fi": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX2yvmlOdMYzV"
         }
     },
     "angry": {
@@ -71,6 +98,15 @@ genre_playlists = {
         "metal": {
             "english": "https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC",
             "hindi": "https://open.spotify.com/playlist/37i9dQZF1DWXWpqz77kFJu"
+        },
+        "rap": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DXbl9rMxGEmRC"
+        },
+        "trap": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
+        },
+        "grime": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
         }
     },
     "relaxed": {
@@ -86,6 +122,18 @@ genre_playlists = {
         "acoustic": {
             "english": "https://open.spotify.com/playlist/37i9dQZF1DX2zAr9vdmGlM",
             "hindi": "https://open.spotify.com/playlist/37i9dQZF1DX5Q5wA1hY6bS"
+        },
+        "lo-fi": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B"
+        },
+        "ambient": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DWYcDQ1hSjOpY"
+        },
+        "chillhop": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug"
+        },
+        "piano": {
+            "english": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO"
         }
     }
 }

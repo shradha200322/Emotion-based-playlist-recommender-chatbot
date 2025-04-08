@@ -188,7 +188,23 @@ def predict():
             genre = extract_genre(user_message) or parameters.get("genre", "").lower().strip()
 
             if not genre:
-                return jsonify({"fulfillmentText": "I missed that. Please select a genre from the options."})
+                return jsonify({
+            "fulfillmentMessages": [
+                {"text": {"text": ["Please choose a genre from the options below."]}},
+                {
+                    "payload": {
+                        "richContent": [
+                            [
+                                {
+                                    "type": "chips",
+                                    "options": [{"text": g.title()} for g in available_genres]
+                                }
+                            ]
+                        ]
+                    }
+                }
+            ]
+        })
 
             return jsonify({
                 "fulfillmentMessages": [
